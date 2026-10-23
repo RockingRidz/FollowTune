@@ -1,18 +1,2 @@
-S.No.,Item Description,Vendor,Platform,Qty,Unit Price (INR),Total Price (INR),Notes
-1,12V 2200mAh Lithium-ion Battery Pack,HKN Enterprises,Amazon / Robu,1,499.0,499.0,Main power for 2WD Bot chassis and motors
-2,INVENTO 5V 1800mAh Ni-Mh Battery Pack,Invento,Amazon,1,409.0,409.0,Power pack for Ripstik transmitter beacon
-3,2WD Robot Smart Car Acrylic Chassis Kit,Durga Enterprises,Amazon,1,360.0,360.0,Includes acrylic frame wheels and hardware
-4,Lalitha LDR Sensor Module,Lalitha,Amazon,1,298.0,298.0,Optical laser center-lock detection
-5,Invento 25pcs 5mm 940nm IR Emitter LEDs,Invento,Amazon,1,265.0,265.0,Mounted on Ripstik for 38kHz active tracking
-6,Arduino Nano CH340 (Pre-Soldered),Robu / Amazon,Robu / Amazon,1,229.0,229.0,Main microcontroller brain
-7,NE555 Timer IC (10PCS Pack),Generic / Robu,Robu / Amazon,1,179.0,179.0,Generates 38kHz signal on Ripstik
-8,2 Inch Mini Speaker Driver (4 Ohm 3W),Generic,Robu / Amazon,1,169.0,169.0,Outputs Bluetooth music and Kinetic Synth tones
-9,PAM8403 Amplifier Board with Bluetooth,Electronic Spices,Amazon,1,153.0,153.0,Audio amplifier & Bluetooth receiver module
-10,300 RPM Dual Shaft BO Motors,Robu,Robu,1,142.0,142.0,Drivetrain BO motors
-11,L9110S H-Bridge Dual DC Motor Driver,ROBODUINO,Amazon / Robu,1,129.0,129.0,PWM motor driver board
-12,TSOP38238 IR Receiver Diode (Pack of 2),Vishay / Robu,Robu / Amazon,1,119.0,119.0,Active 38kHz IR receivers for tracking
-13,KY-008 Laser Transmitter Module,ROBODUINO,Amazon / Robu,1,109.0,109.0,Center-lock laser target beam
-14,SG90 9g Micro Servo Motor,TowerPro / Generic,Robu / Amazon,1,100.0,100.0,Pans the ultrasonic sensor left and right
-15,HC-SR04 Ultrasonic Range Sensor,Generic,Robu / Amazon,1,79.0,79.0,Obstacle detection sensor
-16,MB102 830-Point Solderless Breadboard,Generic,Robu / Amazon,1,69.0,69.0,Prototyping circuit board
-17,220-Ohm 1/4W Resistors Pack,Generic,Robu / Amazon,1,30.0,30.0,Current limiting for Ripstik IR LEDs
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Estimated total shipping,1,,,$0.00,
