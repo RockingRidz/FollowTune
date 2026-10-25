@@ -1,4 +1,4 @@
-S.No.,Item Description,Vendor,Platform,Qty,Unit Price (INR),Total Price (INR),Notes
+Part,Component,Manufacturer,Platform,Quantity,Unit Cost (INR),Total Cost (INR),Description
 1,12V 2200mAh Lithium-ion Battery Pack,HKN Enterprises,Amazon / Robu,1,499.0,499.0,Main power for 2WD Bot chassis and motors
 2,INVENTO 5V 1800mAh Ni-Mh Battery Pack,Invento,Amazon,1,409.0,409.0,Power pack for Ripstik transmitter beacon
 3,2WD Robot Smart Car Acrylic Chassis Kit,Durga Enterprises,Amazon,1,360.0,360.0,Includes acrylic frame wheels and hardware
