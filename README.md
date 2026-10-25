@@ -33,7 +33,7 @@ FollowTune is an autonomous mobile tracking platform designed to follow a rider 
 * **Safety Processing:** A micro servo pans the ultrasonic sensor across left, forward, and right angles to evaluate spatial clearance before moving forward.
 * **Proportional Steering Control:** Uses differential motor speed mapping to slow down inner wheels and accelerate outer wheels, creating smooth carving maneuvers that match the motion of the Ripstik.
 * **Audio System:** Features an onboard amplifier board connected to a mini speaker driver for both synth tone generation and Bluetooth streaming.
-![Alt text](image/followtune2.png)
+![Alt text](image/followtune.png)
 ---
 
 ## Operational Modes
